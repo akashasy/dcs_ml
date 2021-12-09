@@ -1,6 +1,4 @@
-absl-py==0.14.0
 
-anaconda-client==1.7.2
 anaconda-navigator==2.0.4
 
 appdirs==1.4.4
